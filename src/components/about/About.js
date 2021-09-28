@@ -1,6 +1,6 @@
 import React from "react";
 import "./About.css";
-import eduardoRuiz from "../../media/eduardoRuiz";
+import eduardoRuiz from "../../media/eduardoRuiz.jpeg";
 const About = () => {
   return (
     <div className="about-container">
